@@ -1,4 +1,4 @@
-# ⚙️ MLOPs_Assignment_Option_B: Optimizing the Development & Training Pipeline
+# ⚙️ MLOPs Assignment Option A: Optimizing the Development & Training Pipeline
 
 ## 📌 Assignment Overview
 
@@ -85,8 +85,8 @@ Main entry point for the entire workflow. It:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/MLOPs_Assignment_Option_B.git
-cd MLOPs_Assignment_Option_B
+git clone https://github.com/your-username/MLOPs_Assignment_Option_A.git
+cd MLOPs_Assignment_Option_A
 
 python run_entire_dev_pipeline.py
 
